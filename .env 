@@ -1,0 +1,2 @@
+export const USER_JWT_SECRET = process.env.USER_JWT_SECRET || 123123;
+export const ADMIN_JWT_SECRET = process.env.ADMIN_JWT_SECRET || 124125;
